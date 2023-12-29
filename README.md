@@ -27,9 +27,9 @@
 
 ### :man_technologist: About Me : I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I am looking for work with companies and people where I can contribute as much as I possibly can.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Ask me about Frontend, Backend, Database and problem solving.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
