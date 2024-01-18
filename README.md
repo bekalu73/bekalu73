@@ -54,8 +54,23 @@
 </div>
 ---
 
-### :fire: My Stats :
+<!--   ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bekalu73&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekalu73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekalu73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  -->
+
+
+### :fire: My Stats :
+<div align="center" >
+  <a  href="https://github.com/bekalu73">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bekalu73&theme=blue-green&include_all_commits=true&count_private=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekalu73&hide_progress=true&langs_count=10" />
+  </a>
+</div>
+<br/>
+<div align="center" >
+  <a  href="https://github.com/bekalu73">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bekalu73&theme=blue-green" alt="bekalu73" />
+  </a>
+</div> 
 
