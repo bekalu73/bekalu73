@@ -52,23 +52,14 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
 </div>
----
-
-<!--   ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bekalu73&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekalu73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  -->
-
+--
 
 ### :fire: My Stats :
-<div align="center" >
-  <a  href="https://github.com/bekalu73">
-   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bekalu73&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=bekalu73&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekalu73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekalu73&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
 
-  </a>
-</div>
-<br/>
+
+
 
 
