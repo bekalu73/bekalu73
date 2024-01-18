@@ -34,7 +34,7 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:Lets Connect on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Bekalu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bekalu-sisay-b82147241/)
-- * 📫 Reach me by at bekalusisay2010@gmail.com
+- 💬 Reach me by at bekalusisay2010@gmail.com
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
