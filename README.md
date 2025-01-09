@@ -31,7 +31,7 @@
 
 - :seedling: Ask me about Frontend, Backend, Database and problem solving.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I read tech articles from LinkedIn.
 
 - :mailbox:Lets Connect on LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-Bekalu-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bekalu-sisay-b82147241/)
 - 💬 Email me by bekalusisay2010@gmail.com
