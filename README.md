@@ -3,28 +3,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bekalu%20Sisay%20Iticha&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=19&descAlignY=51" />
 </div>
 
-<!-- Animated Typing Text -->
-<div align="center" style="margin-bottom: 80px;">
-  <br>
-  <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" 
-    alt="Typing SVG" 
-  />
-  <br><br>
-</div>
-
-
-
-<!-- Social Links -->
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/bekalu-sisay-b82147241/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:bekalusisay2010@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](#)
-
-<img src="https://komarev.com/ghpvc/?username=bekalu73&style=for-the-badge&color=brightgreen" alt="Profile Views"/>
-
-</div>
+<!-- Animated Typing Text --> <div align="center" style="margin-bottom: 80px;"> <br> <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" /> <br><br> </div> <!-- Social Links --> <div align="center"> [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/bekalu-sisay-b82147241/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:bekalusisay2010@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white&labelColor=FF5722)](#) <img src="https://komarev.com/ghpvc/?username=bekalu73&style=for-the-badge&color=brightgreen" alt="Profile Views"/> </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
