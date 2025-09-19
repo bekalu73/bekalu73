@@ -198,7 +198,7 @@ const bekalu = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 **📧 Drop me a line**: [bekalusisay2010@gmail.com](mailto:bekalusisay2010@gmail.com)  
-**💼 Let's network**: [LinkedIn - Bekalu Sisay]([https://www.linkedin.com/in/bekalu-sisay-b82147241/](https://www.linkedin.com/in/bekalusisay/))
+**💼 Let's network**: [LinkedIn - Bekalu Sisay]((https://www.linkedin.com/in/bekalusisay/))
 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
 
