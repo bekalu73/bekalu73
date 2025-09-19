@@ -1,10 +1,16 @@
+<!-- Animated Header -->
 <div align="center">
-  
-# 🌟 Welcome to My Digital Universe 🌟
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Bekalu%20Sisay&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=19&descAlignY=51" />
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Bekalu+Sisay+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A9;Tech+Enthusiast+%F0%9F%92%BB;Building+Amazing+Web+Experiences!" alt="Typing SVG" />
+<!-- Animated Typing Text -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
+</div>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+<!-- Profile Animation -->
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" height="300"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5)](https://www.linkedin.com/in/bekalu-sisay-b82147241/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:bekalusisay2010@gmail.com)
@@ -18,7 +24,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
 ```javascript
 const bekalu = {
@@ -26,7 +32,8 @@ const bekalu = {
     role: "Full Stack Developer",
     languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
     frameworks: ["React", "Next.js", "Node.js", "Express"],
-    databases: ["MongoDB", "MySQL", "Firebase"],
+    databases: ["MongoDB", "MySQL", "PostgreSQL", "Firebase"],
+    orm: ["Prisma"],
     currentFocus: "Building scalable web applications",
     funFact: "I debug with console.log() and I'm proud of it! 😄",
     lifePhilosophy: "Code, Learn, Repeat 🔄"
@@ -54,7 +61,10 @@ const bekalu = {
 <img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
 
 ### 🗄️ Database Mastery
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase&theme=dark" />
+
+### 🔗 ORM & Database Tools
+<img src="https://skillicons.dev/icons?i=prisma&theme=dark" />
 
 ### 🔧 Tools & More
 <img src="https://skillicons.dev/icons?i=git,wordpress,vscode,figma&theme=dark" />
@@ -104,11 +114,11 @@ const bekalu = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🐍 Contribution Snake
+## 📈 Contribution Graph
 
 <div align="center">
 
-![Snake animation](https://github.com/bekalu73/bekalu73/blob/output/github-contribution-grid-snake.svg)
+[![Bekalu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bekalu73&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -124,11 +134,17 @@ const bekalu = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎵 Currently Vibing To
+## ⚡ Coding Stats
 
 <div align="center">
 
-[![Spotify](https://novatorem-bekalu73.vercel.app/api/spotify)](https://open.spotify.com/user/your-spotify-username)
+[![Bekalu's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=bekalu73&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/anuraghazra/github-readme-stats)
+
+**💻 This Week I Spent My Time On:**
+
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C337%20hrs%2042%20mins-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1337-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 </div>
 
