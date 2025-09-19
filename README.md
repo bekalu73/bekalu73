@@ -6,9 +6,13 @@
 <!-- Animated Typing Text -->
 <div align="center" style="margin-bottom: 80px;">
   <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&lines=Welcome+to+my+Digital+Universe+%F0%9F%8C%8C;Building+the+Future+with+Code+%F0%9F%9A%80;Let's+Create+Something+Amazing!+%E2%9C%A8" 
+    alt="Typing SVG" 
+  />
   <br><br>
 </div>
+
 
 
 <!-- Social Links -->
